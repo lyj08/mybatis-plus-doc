@@ -95,6 +95,7 @@
 - [Diboot](https://github.com/dibo-software/diboot-v2)：轻代码开发平台
 - [tyboot](https://gitee.com/magintursh/tyboot)：基于SpringBoot的快速开发脚手架
 - [ac-blog](https://github.com/memo012/ac-blog) ac博客网站
+- [ac-blog](https://github.com/memo012/yj-blog) yj博客网站
 
 ## 接入企业
 
